@@ -1,10 +1,13 @@
 # nik-validator
 NIK Validator is a package to convert Indonesian citizenship identity number into usefull information. You just call the **parse** method and input NIK number in the parameter, then you will get the informations (without internet connection).
 
+
+
+clone from https://github.com/irsyadulibad/nik-validator
 ## Usage
 * Installation
 ```
-composer require irsyadulibad/nik-validator
+composer require fariswidhi/nik-validator
 ```
 
 * Example
