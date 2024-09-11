@@ -1,9 +1,9 @@
 <?php
 
-namespace Irsyadulibad\NIKValidator;
+namespace FarisWidhi\NIKValidator;
 
 use DateTime;
-use Irsyadulibad\NIKValidator\Enum\Gender;
+use FarisWidhi\NIKValidator\Enum\Gender;
 
 class Validator
 {

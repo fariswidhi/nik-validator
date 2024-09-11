@@ -1,6 +1,6 @@
 <?php
 
-namespace Irsyadulibad\NIKValidator\Enum;
+namespace FarisWidhi\NIKValidator\Enum;
 
 enum Gender: String
 {
